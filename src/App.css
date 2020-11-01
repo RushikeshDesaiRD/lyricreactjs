@@ -1,0 +1,44 @@
+
+.container-custom{
+  background:rgb(255, 0, 102);
+ 
+}
+.bg-custom{
+  background:rgb(255, 0, 102);
+}
+.title{
+    font-size:60px;
+    font-weight:bold;
+}
+.navbar-toggler{
+  background:rgb(204, 0, 204);
+   border:yellow;
+
+}
+.link-go{
+  color:rgb(204, 0, 204);
+  font-size:25px;
+  font-weight:bold;
+}
+.btn-custom{
+  background:rgb(204, 0, 204);
+  padding:0px 20px;
+  outline:none;
+  border:none;
+  color:white;
+}
+.nav-link-custom{
+  color:white;
+  margin:0px 20px;
+  font-size:25px;
+}
+.margin-to-spinner{
+  margin-top:10%;
+}
+.card-custom{
+ color:rgb(204, 0, 204);
+  background:white;
+}
+.card-body-custom{
+  background:rgb(204, 0, 204);
+}
